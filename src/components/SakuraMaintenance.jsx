@@ -47,7 +47,7 @@ export default function SakuraMaintenance() {
           </h1>
 
           <p>
-            Estamos plantando novas árvores e ajustando os sistemas do servidor para garantir a melhor experiência de jogo para você e seu clã. Voltaremos online em breve!
+            Estamos plantando novas árvores e ajustando os sistemas do servidor para garantir a melhor experiência de jogo para você e seus amigos. Voltaremos online em breve!
           </p>
 
           <div className="actions">
@@ -61,7 +61,7 @@ export default function SakuraMaintenance() {
         <div className="image-column">
           <div className="image-placeholder">
             <img
-              src="/images/sakura-maintenance.gif"
+              src="/images/download.gif"
               alt="Personagem Sakura em estilo Minecraft"
             />
           </div>
